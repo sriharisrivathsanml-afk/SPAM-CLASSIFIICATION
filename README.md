@@ -12,5 +12,7 @@ Attached below are links for the necessary references. Stay tuned for further up
 REFERENCE LINKS :-
 
 Google Colab Notebook link for this project :- https://colab.research.google.com/drive/1YP2ujTx3ThHLrQZrNdCplmppl1eQQeOX?usp=sharing
+
 Link to access the dataset :- https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv/data
+
 Link to the Titanic Survival Predictor project :- https://github.com/sriharisrivathsanml-afk/Titanic_Prediction_SrihariSrivathsan
